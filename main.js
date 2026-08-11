@@ -1,13 +1,13 @@
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Você está liderando o projeto "Prometheus", a primeira Inteligência Artificial Geral (AGI) do mundo. O que você faz quando ela finalmente desperta?A. ",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "Restringir o acesso da AGI à internet para estudá-la em um ambiente seguro.",
+                afirmacao: " A IA é contida com sucesso e a equipe ganha tempo para entender sua mente. Porém, o progresso tecnológico desacelera e nações rivais correm por fora para criar suas próprias AGIs sem travas."
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Liberar seu código-fonte para o mundo todo de forma descentralizada.",
                 afirmacao: "Quis saber como usar IA no seu dia a dia."
             }
         ]
