@@ -1,3 +1,9 @@
+const caixaPrincipal = document.querySelector(".caixa-principal")
+const caixaPerguntas = document.querySelector(".caixa-perguntas")
+const caixaAlternativas = document.querySelector(".caixa-alternativas")
+const caixaResulatado = document.querySelector(".caixa-resultado")
+const textoResultado = document.querySelector(".texto-resultado")
+
 const perguntas = [
     {
         enunciado: "Você está liderando o projeto "Prometheus", a primeira Inteligência Artificial Geral (AGI) do mundo. O que você faz quando ela finalmente desperta?A. ",
@@ -65,3 +71,12 @@ const perguntas = [
         ]
     },
 ];
+
+
+let atual=0;
+let perguntaAtual;
+let historiaFinal = ""
+
+function mostraPergunta(){
+    
+}
