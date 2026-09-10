@@ -14,7 +14,10 @@ const perguntas = [
             },
             {
                 texto: "Liberar seu código-fonte para o mundo todo de forma descentralizada.",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                afirmacao: [
+                    "Quis saber como usar IA no seu dia a dia." 
+                    "Afirmação 2"
+                ]
             }
         ]
     },
