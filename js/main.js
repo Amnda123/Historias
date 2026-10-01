@@ -8,7 +8,7 @@ const textoResultado = document.querySelector(".texto-resultado")
 const botaoIniciar= document.querySelector(".iniciar -btn")
 const telaInicial = document.querySelector(".tela-inicial")
 
-let atual=0
+let atual = 0
 let perguntaAtual;
 let historiaFinal = "";
 
